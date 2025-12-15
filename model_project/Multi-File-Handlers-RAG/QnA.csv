@@ -1,0 +1,34 @@
+,Questions,Answers
+0,give me sum of two numbers code ?,"To find the sum of two numbers in the provided context, you can create a new variable for one of the numbers and then modify the existing variable with the sum of the two numbers. Here's an example:
+
+```python
+a = 5
+b = 10
+c = a + b
+a = c - b
+print(a, c)
+```
+
+This code first assigns values 5 and 10 to variables `a` and `b`, respectively. It then calculates the sum of the two numbers (which is stored in the variable `c`). After that, it assigns the original value of `a` (5) to `b` and the calculated sum (15) to `a`. The final output will be `15 5`, indicating that the sum of `a` and `b` is `15`, and `a` now holds that value."
+1,what is machine learning ?,"Machine learning is a subfield of artificial intelligence that focuses on the development and study of statistical algorithms that can learn from data and generalize to unseen data, allowing them to perform tasks without explicit instructions."
+2,"how many times did divya ram messages, with dates ?","Divya Ram messaged once, on 15/12/2025."
+3,"how many times overall participate messages, with name or phone numer and dates ?","In the provided context, there are four instances where a participant sends a message with their name or phone number and a date. These are:
+
+1. Sayed Mohammed on 14/12/2025, 8:01 pm
+2. Saddam Csb on 14/12/2025, 8:14 pm
+3. Manoj Kumar Asoft on 14/12/2025, 8:42 pm
+4. Divya Ram on 15/12/2025, 7:08 am
+
+The message from Divya Ram on 15/12/2025, 7:08 am, while it includes the team greeting, it still functions as a participation message since it acknowledges the shared meeting link and requests team members to join."
+4,what is the wheather on london ?,The provided context does not contain information about the weather in London.
+5,what is the wheather on India ?,The context provided does not contain information about the weather in India.
+6,what is the wheather details you have ?,"The context does not provide any information about weather details. The provided text appears to be the terms and conditions of a website, including a privacy policy and terms of service, as well as links to additional information about the company and its services such as an AI assistant, a blog, and an app."
+7,what is the policy it have ?,"Based on the provided context, the policy mentioned is the ""Privacy Policy."""
+8,what is the name of bank holder ?,The name of the bank account holder is SAYED MOHAMMAD.
+9,what is the numer of bank account of SAYED MOHAMMAD ?,The bank account number of SAYED MOHAMMAD is 37119640412.
+10,how many female aretheir with their name and phone no ?,"Based on the provided context, there is only one female (Miss Pauline Bode) listed, but her phone number is not provided."
+11,give me all men names along with mails ?,"The provided context only contains one individual's name, Gaylord Mante, and their email address, gheathcote@hahn.com. So, the answer is Gaylord Mante with the email address gheathcote@hahn.com."
+12,what is beloating ?,"The provided context does not contain any information about ""beloating"". It only includes personal details about Corine Keeling, which include her name, email, address, and phone number. The term ""beloating"" is not present in the context and thus cannot be answered based on the provided information."
+13,what is deloating ?,"Based on the provided context, ""debloating"" appears to refer to the process of reducing the size of Android applications. However, the exact definition is not explicitly stated in the context. It can be inferred from the context that the tool being demonstrated, ADB Deployer, is used for this purpose."
+14,how to deloating according to data ?,"The provided context does not directly address the question of ""dealing"" with data. However, it does mention Data Mining, which is a related field of study that focuses on exploratory data analysis (EDA) via unsupervised learning. This suggests that one way to deal with data could be through the process of Data Mining, which involves the discovery of patterns in large data sets in order to extract information and make predictions."
+15,how to deloating?,"The provided context does not directly answer the question ""how to debloat Android applications"". However, it mentions a tool called ADB Deployer which is used for debloating Android applications. To learn how to use this tool, the speaker suggests watching a video on converting python files into exe, which they have previously uploaded. To find out the specific steps to debloat Android applications using ADB Deployer, one would need to watch that video or find more information about the tool and its usage."
